@@ -1,7 +1,7 @@
 {
-  "name": "isuck",
+  "name": "api",
   "version": "1.0.0",
-  "description": "I suck at everything",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
